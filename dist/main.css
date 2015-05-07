@@ -32,7 +32,7 @@
 
 .topboxc{
 	background: rgb(0,112,164);
-	height: 33px;
+	height: 31px;
 	width: 75px;
 	float: right;
 	display: inline-block;
@@ -41,6 +41,7 @@
 	font-family: sans-serif;
 	font-size: 13px;
 	color: white;
+	border-bottom: solid rgb(0,95,147);
 }
 
 .heading{

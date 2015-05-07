@@ -1,0 +1,229 @@
+.topbox {
+  background: #118BC0;
+  height: 48px;
+  margin: 0 auto; }
+  .topbox .topboxa {
+    background-image: url("images/logo.png");
+    background-size: cover;
+    height: 32px;
+    width: 32px;
+    margin: 8px 12px 8px 15px;
+    display: inline-block; }
+  .topbox .topboxb {
+    height: 25px;
+    width: 117px;
+    margin: 8px 204px 8px 0px;
+    padding-top: 7px;
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 16px;
+    color: white; }
+    .topbox .topboxb span {
+      color: #9DCEE4; }
+  .topbox .topboxc {
+    background: #0070A4;
+    height: 31px;
+    width: 75px;
+    float: right;
+    display: inline-block;
+    padding-top: 15px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 13px;
+    color: white;
+    border-bottom: solid #005f93; }
+
+.bgmain {
+  background-image: url("images/crowd.jpg");
+  background-size: cover; }
+  .bgmain .heading {
+    height: 103px;
+    margin: 0px auto;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 32px;
+    color: white;
+    padding: 165px 50px 0px; }
+  .bgmain .subtitle {
+    height: 66px;
+    margin: 0px;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 16px;
+    color: white;
+    padding: 0px 95px 0px; }
+  .bgmain .box1_parent {
+    height: 52px;
+    background: rgba(0, 0, 0, 0.3);
+    padding: 10px;
+    margin: 0px 115px 0px; }
+    .bgmain .box1_parent .box1_child {
+      background: #1E8CBE;
+      height: 41px;
+      text-align: center;
+      font-family: sans-serif;
+      font-size: 24px;
+      color: white;
+      padding-top: 11px; }
+  .bgmain .box2_parent {
+    height: 20px;
+    padding: 212px 204px 134px; }
+    .bgmain .box2_parent .box2_child {
+      height: 20px;
+      text-align: center;
+      font-family: sans-serif;
+      font-size: 45px;
+      color: white;
+      margin: 0 auto; }
+  .bgmain .box3_parent {
+    height: 261px;
+    padding: 0px 78px 76px; }
+    .bgmain .box3_parent .box3_child {
+      height: 67px;
+      margin: 0 auto 30px; }
+      .bgmain .box3_parent .box3_child .box3_gchilda {
+        height: 57px;
+        width: 48px;
+        margin: 10px 10px 0px 0px;
+        display: inline-block; }
+      .bgmain .box3_parent .box3_child .mobile {
+        background-image: url("images/tablet.png");
+        background-size: fit;
+        background-repeat: no-repeat; }
+      .bgmain .box3_parent .box3_child .press {
+        background-image: url("images/newspaper.png");
+        background-size: fit;
+        background-repeat: no-repeat; }
+      .bgmain .box3_parent .box3_child .brush {
+        background-image: url("images/paint-brush.png");
+        background-size: fit;
+        background-repeat: no-repeat; }
+      .bgmain .box3_parent .box3_child .box3_gchildb {
+        height: 47px;
+        width: 240px;
+        margin: 0px 3px 12px 0px;
+        padding-top: 8px;
+        display: inline-block;
+        float: right; }
+        .bgmain .box3_parent .box3_child .box3_gchildb .box3_gchildb1 {
+          font-family: sans-serif;
+          font-size: 18px;
+          color: white; }
+        .bgmain .box3_parent .box3_child .box3_gchildb .box3_gchildb2 {
+          font-family: sans-serif;
+          font-size: 14px;
+          color: white;
+          padding-top: 5px; }
+
+.box4 {
+  height: 168px;
+  font-family: sans-serif;
+  font-size: 24px;
+  color: #314156;
+  text-align: center;
+  padding-top: 20px;
+  line-height: 1.5; }
+
+.box5_parent {
+  background: #D1D3D7;
+  height: 1512px;
+  padding: 32px 10px 31px; }
+  .box5_parent .box5_childa {
+    background: white;
+    height: 195px;
+    margin: 0 auto 30px;
+    padding-top: 20px; }
+    .box5_parent .box5_childa .box5_gchilda {
+      background: #c7d2d8;
+      height: 49px;
+      -moz-border-radius: 31px;
+      -webkit-border-radius: 31px;
+      border-radius: 31px;
+      margin: 0px 187px 10px;
+      text-align: center;
+      padding-top: 13px; }
+    .box5_parent .box5_childa .box5_gchildb {
+      height: 23px;
+      margin: 0px 15px 16px;
+      font-family: sans-serif;
+      font-size: 21px;
+      color: #2c4f66;
+      text-align: center; }
+    .box5_parent .box5_childa .box5_gchildc {
+      height: 62px;
+      margin: 0px 15px auto;
+      font-family: sans-serif;
+      font-size: 16px;
+      color: black;
+      text-align: center;
+      line-height: 1.5; }
+  .box5_parent .box5_childb {
+    background: white;
+    height: 219px;
+    margin: 0 auto 30px;
+    padding-top: 20px; }
+    .box5_parent .box5_childb .box5_gchilda {
+      background: #c7d2d8;
+      height: 49px;
+      -moz-border-radius: 31px;
+      -webkit-border-radius: 31px;
+      border-radius: 31px;
+      margin: 0px 187px 10px;
+      text-align: center;
+      padding-top: 13px; }
+    .box5_parent .box5_childb .box5_gchildb {
+      height: 23px;
+      margin: 0px 15px 16px;
+      font-family: sans-serif;
+      font-size: 21px;
+      color: #2c4f66;
+      text-align: center; }
+    .box5_parent .box5_childb .box5_gchildc {
+      height: 62px;
+      margin: 0px 15px auto;
+      font-family: sans-serif;
+      font-size: 16px;
+      color: black;
+      text-align: center;
+      line-height: 1.5; }
+
+.box6_parent {
+  background: #E8F0F5;
+  height: 119px;
+  padding: 30px 0px 20px;
+  font-family: sans-serif;
+  font-size: 24px;
+  color: #314156;
+  text-align: center; }
+  .box6_parent .box6_child {
+    background: #1E8CBE;
+    height: 40px;
+    margin: 39px 125px 0px;
+    font-family: sans-serif;
+    font-size: 22px;
+    color: white;
+    text-align: center;
+    padding-top: 12px; }
+
+.box7_parent {
+  background: black;
+  height: 90px;
+  padding: 20px 50px 20px;
+  text-align: center; }
+  .box7_parent .box7_links {
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 10px;
+    margin: 8px;
+    display: inline-block; }
+  .box7_parent .box7_child {
+    background-image: url("images/automattic.png");
+    background-size: 132px 23px;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 23px;
+    margin: 10px 107px 0px; }
